@@ -11,9 +11,9 @@ This Python script processes a scanned or raw string and **removes any non-alpha
 
 ## 📁 File
 
-- `string_cleaner.py`: The main script that performs the cleaning.
+- `data-clean-up.py`: The main script that performs the cleaning.
 
 ## ▶️ How to Run
 
 ```bash
-python string_cleaner.py
+data-clean-up.py
